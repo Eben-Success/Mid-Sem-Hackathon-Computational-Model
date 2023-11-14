@@ -16,7 +16,7 @@ The dataset at hand comprises comprehensive information on LinkedIn influencers,
 
 ### Group Members
 1. Ebenezer Acquah - 10885076
-2. Eugene Cobbah - 10885076
+2. Eugene Cobbah - 10866103
 
 ### Findings
 
